@@ -92,7 +92,7 @@ Built with a robust tech stack including Python (Flask), Supabase, AWS, and GPU-
 1. Clone the repository:
    ```bash
    git clone https://github.com/ashikjoy21/convo-backend.git
-   cd ai-english-communication-platform
+   cd convo-backend
    ```
 2. Install Python dependencies:
    ```bash
